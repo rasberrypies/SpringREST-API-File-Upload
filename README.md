@@ -11,7 +11,10 @@ Maven
 Embedded Tomcat 8.5.6
 Google Chrome Browser (Network Inspect)
 
-File uploading  with cURL command.
+
+
+Testing File uploading  with cURL command.
+
 
 1.Testing only  single file upload.
 
