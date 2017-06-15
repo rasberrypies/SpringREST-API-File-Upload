@@ -4,16 +4,22 @@
 Spring Boot REST API with  file upload using Ajax requests and components used in this project:
 
 Spring Boot 1.4.3.RELEASE
+
 Spring 4.3.5.RELEASE
+
 Thymeleaf
+
 jQuery (webjars)
+
 Maven
+
 Embedded Tomcat 8.5.6
+
 Google Chrome Browser (Network Inspect)
 
 
 
-Testing File uploading  with cURL command.
+_Testing File uploading  with cURL command_
 
 
 1.Testing only  single file upload.
